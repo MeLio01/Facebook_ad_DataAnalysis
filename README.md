@@ -22,5 +22,6 @@ We answered some business related questions from the insights that we got after 
 1.    Did data cleaning and data preparing activities. 
 2.    Ran descriptive analytics on the prepared data and plotted tables, charts and graphs.
 3.    Interpreted the charts and graphs and listed out the insights.
-4.   Used Kmeans algorithm, Elbow technique and various different libraries and frameworks like pandas, numpy, seaborn, matplotlib, sklearn, etc. to run the              descriptive analytics.
+4.    Used Kmeans algorithm, Elbow technique to find optimal number of clusters and various different libraries and frameworks like pandas, numpy, seaborn, 
+      matplotlib, sklearn, etc. to run the descriptive analytics.
 
